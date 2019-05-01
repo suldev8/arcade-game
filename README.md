@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [How the Game Works](#how the Game Works)
+- [How the Game Works](#How-the-Game-Works)
 - [Usage](#usage)
 
 ## How the Game Works
